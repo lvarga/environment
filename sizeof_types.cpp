@@ -57,7 +57,7 @@ int main()
 	std::cout << "\tSize:  " << sizeof(float) << " bytes\n";
 	std::cout << "\tMin:   " << std::numeric_limits<float>::min() << "\n";
 	std::cout << "\tMax:   " << std::numeric_limits<float>::max() << "\n";
-	std::cout << "\tigits: " << std::numeric_limits<float>::digits10 << "\n";
+	std::cout << "\tDigits: " << std::numeric_limits<float>::digits10 << "\n";
 	std::cout << "\n";
 
 	std::cout << "double:\n";
